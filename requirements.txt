@@ -1,11 +1,9 @@
 streamlit==1.50.0
 streamlit-drawable-canvas==0.9.3
-torch==2.7.1+cu118
-torchvision==0.22.1+cu118
-torchaudio==2.7.1+cu118
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
 numpy==2.2.6
 Pillow==10.1.0
 matplotlib==3.10.5
 scikit-learn==1.7.1
-pandas==2.3.1
-tqdm==4.65.0
